@@ -35,5 +35,3 @@ The `DESCRIPTION` file was automatically added to make this project Binder-ready
 
 **Access Downloaded Data:**
 The downloaded data from the OSF project is located in the `3kem6_src` folder.
-
----
