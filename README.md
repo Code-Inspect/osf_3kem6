@@ -1,4 +1,4 @@
-# Binderised version of the OSF project - 3kem6
+# Executable Environment for OSF Project [3kem6](https://osf.io/3kem6/) via MyBinder
 
 ---
 ## OSF Project Metadata:
