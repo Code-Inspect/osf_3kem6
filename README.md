@@ -1,4 +1,4 @@
-# Executable Environment for OSF Project [3kem6](https://osf.io/3kem6/) via MyBinder
+# Executable Environment for OSF Project [3kem6](https://osf.io/3kem6/)
 
 ---
 ## OSF Project Metadata:
@@ -8,8 +8,6 @@
 **Project Description:**
 > For decades, science has attempted to understand the world by boiling concepts down to their simplest components in a quest for reductionism, but there is now a move to map the world's complexities via a network perspective. Clinical psychology has embraced this perspective as well, and researchers have started to conceptualize mental disorders as network systems. In this chapter, we review and discuss the theoretical conjectures, levels of evidence, current challenges and future directions, as well as the potential translational value of this radically new approach to psychopathology. 
 
-[here, we provide the R code The R code used to estimate and visualize the two networks depicted in the chapter's Figure 2]
-
 **Original OSF Page:** [https://osf.io/3kem6/](https://osf.io/3kem6/)
 
 ---
@@ -18,7 +16,7 @@ This repository was automatically generated as part of a project to test the rep
 
 **Important Note:** The contents of the `3kem6_src` folder were cloned from the OSF project on **12-03-2025**. Any changes made to the original OSF project after this date will not be reflected in this repository.
 
-The `DESCRIPTION` file was automatically added to make this project Binder-ready. For more information on how R-based OSF projects are containerized, please refer to the `osf-to-binder` GitHub repository: [https://github.com/Code-Inspect/osf-to-binder.git](https://github.com/Code-Inspect/osf-to-binder.git)
+The `DESCRIPTION` file was automatically added to make this project Binder-ready. For more information on how R-based OSF projects are containerized, please refer to the `osf-to-binder` GitHub repository: [https://github.com/Code-Inspect/osf-to-binder](https://github.com/Code-Inspect/osf-to-binder)
 
 ## How to Launch:
 
