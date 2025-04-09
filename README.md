@@ -33,3 +33,24 @@ The `DESCRIPTION` file was automatically added to make this project Binder-ready
 
 **Access Downloaded Data:**
 The downloaded data from the OSF project is located in the `3kem6_src` folder.
+
+## Run via Docker for Long-Term Reproducibility
+
+In addition to launching this project using Binder or NFDI JupyterHub, you can reproduce the environment locally using Docker. This is especially useful for long-term access, offline use, or high-performance computing environments.
+
+**Pull the Docker Image**
+
+```bash
+docker pull meet261/osf_3kem6
+```
+
+ **Launch RStudio Server**
+
+```bash
+docker run -e PASSWORD=yourpassword -p 8787:8787 meet261/osf_3kem6
+```
+**Once the container is running, copy the given URL and paste it into your browser.**
+
+
+
+
